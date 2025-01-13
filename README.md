@@ -3,7 +3,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<h3 align="center">Linear Regression Image Reconstruction Opt</h3>
+<h3 align="center">Linear Regression Image Reconstruction</h3>
 
   <p align="center">
     In this project, we will try to reconstruct a image with missing pixels using linear regression.
