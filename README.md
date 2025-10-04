@@ -40,6 +40,8 @@ In this project, we will try to reconstruct a image with missing pixels using li
 * Reconstruct image using linear regression
 
 ### Result
+![Alt text](https://github.com/mofidi80/Linreg_Image_Reconstruction/blob/3eb33cfa2c59c10db34c5ad98d6b69a8581585e9/blob/Presentation1.png)
+
 
 #### Use this link to easily view the notebook online:
 https://nbviewer.org/github/mofidi80/Linreg_Image_Reconstruction/blob/main/Linreg%20Image%20Reconstruction.ipynb
