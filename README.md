@@ -35,8 +35,8 @@
 In this project, we will try to reconstruct a image with missing pixels using linear regression. First we turn the image into an array and remove 10% of its pixels at random; Then we use linear regression model to reconstruct the image.
 
 
-### Outcomes
-1. Reconstruct image using linear regression
+### Goal
+* Reconstruct image using linear regression
 
 #### Use this link to easily view the notebook online:
 https://nbviewer.org/github/mofidi80/Linreg_Image_Reconstruction/blob/main/Linreg%20Image%20Reconstruction.ipynb
